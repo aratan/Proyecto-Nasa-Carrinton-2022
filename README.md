@@ -1,15 +1,15 @@
-¡Salvando la Tierra de otro Evento Carrington! - Desafío NASA Space Apps Madrid 2022
+# ¡Salvando la Tierra de otro Evento Carrington! - Desafío NASA Space Apps Madrid 2022
 ¿Qué es el Evento Carrington?
 
 ![OIG3](https://github.com/aratan/Proyecto-Nasa-Carrinton-2022/assets/4398830/c3be8f16-8235-4c31-aea2-a224585a7eb8)
 
 El Evento Carrington de 1859 fue la tormenta solar más poderosa jamás registrada. Causó daños generalizados en los sistemas telegráficos de todo el mundo e incluso provocó incendios. Si un evento similar ocurriera hoy, podría tener consecuencias devastadoras para nuestra infraestructura moderna, que depende en gran medida de la electricidad.
 
-El desafío
+## El desafío
 
 El desafío "¡Salvando la Tierra de otro Evento Carrington!" de NASA Space Apps Madrid 2022, te invita a desarrollar soluciones para proteger a la Tierra de los efectos de una tormenta solar extrema.
 
-Tu misión
+## Tu misión
 
 Utilizando datos espaciales abiertos y gratuitos de la NASA y sus socios, tu equipo creará una herramienta o solución innovadora para:
 
@@ -18,7 +18,7 @@ Mitigar los impactos de una tormenta solar en la infraestructura crítica.
 Comunicar y educar al público sobre los riesgos de las tormentas solares.
 ¿Quién puede participar?
 
-El desafío está abierto a estudiantes, profesionales, entusiastas de la tecnología, artistas, diseñadores, emprendedores y cualquier persona interesada en resolver problemas del mundo real utilizando datos espaciales.
+## El desafío está abierto a estudiantes, profesionales, entusiastas de la tecnología, artistas, diseñadores, emprendedores y cualquier persona interesada en resolver problemas del mundo real utilizando datos espaciales.
 
 Fechas del desafío
 
@@ -26,7 +26,7 @@ Fechas del desafío
 Ubicación
 
 Online
-Recursos
+## Recursos
 
 Página web del desafío: https://2022.spaceappschallenge.org/challenges
 Datos espaciales de la NASA: https://data.nasa.gov/
